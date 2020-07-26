@@ -1,0 +1,12 @@
+Training score,Test score,Test mae,Test explained var score,Interception,Main Coefficients
+0.7478472145673158,0.7747713800348022,6.918275678290329,0.7765112397183268,57.29969179820028,"                   Coefficient
+SkiableTerrain_ac     1.315475
+projectedDaysOpen     1.394346
+LongestRun_mi         1.569179
+TerrainParks          1.861455
+surface               1.866924
+daysOpenLastYear      1.936513
+quad                  2.125982
+summit_elev           2.577531
+vertical_drop         3.073504
+AdultWeekday         10.384378"
